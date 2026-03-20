@@ -20,7 +20,7 @@ int lo 3
 ip add 3.3.3.3 255.255.255.255
 end
 
-LISP CONFGIURATION: MAP SERVER/MAP RESOLVER.
+LISP CONFGIURATION: MAP SERVER/MAP RESOLVER. (LISP - locator ip separator)
 R2: mapserver/mapresolver: can Ping everyone:
 
 config t
